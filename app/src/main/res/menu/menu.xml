@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/starred"
+        android:title="Starred"
+        android:icon="@drawable/ic_baseline_star_24"
+        />
+
+    <item
+        android:id="@+id/suggestions"
+        android:title="Suggestions"
+        android:icon="@drawable/ic_baseline_sticky_note_2_24"
+        />
+
+    <item
+        android:id="@+id/help_center"
+        android:title="Help Center"
+        android:icon="@drawable/ic_baseline_call_24"
+        />
+
+    <item
+        android:id="@+id/mail_us"
+        android:title="Mail us"
+        android:icon="@drawable/ic_baseline_email_24"
+        />
+
+
+
+</menu>
